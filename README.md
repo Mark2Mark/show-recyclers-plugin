@@ -53,7 +53,7 @@ After your purchase, the license key should be set automatically for you. If it 
   <li>👉 When you've completed the above, just click the <code>"Activate License"</code> button. Within a few seconds your product should be activated for full use!</li>
 </ol>
 
-*) If the window doesn’t show, you can right-click into the Edit Tab (that’s the window where you do your drawings) and in the context menu click <code>"Purchase Variable Font Preview 3"</code>. Alternatively you can right click into the plugin’s Preview box and click <code>"Open Registration Window"</code>.
+*) If the window doesn’t show, you can right-click into the Edit Tab (that’s the window where you do your drawings) and in the context menu click <code>"Purchase Recyclers"</code>. Alternatively you can right click into the plugin’s Preview box and click <code>"Open Registration Window"</code>.
 </details>
 
 &nbsp;
