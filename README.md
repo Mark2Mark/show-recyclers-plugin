@@ -81,5 +81,5 @@ If you can’t see the <code>»Add Coupon«</code>, that’s likely to a reporte
 ---
 
 <p align="center">
-  <img src="https://github.com/Mark2Mark/variable-font-preview/blob/main/.images/Plugin%20Manager%20-%20Variable%20Font%20Preview.jpg?raw=true">
+  <img src="https://github.com/Mark2Mark/recyclers/blob/main/.images/recyclers.jpg?raw=true">
 </p>
