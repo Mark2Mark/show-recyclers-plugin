@@ -1,6 +1,6 @@
 
 <p align="center">
-<img width="200" height="200" src="https://github.com/Mark2Mark/____/VFP-Icon.png">
+<img width="200" height="200" src="https://github.com/Mark2Mark/recyclers/blob/main/.images/Recyclers-Icon.png?raw=true">
 </p>
 
 # Recyclers 3
