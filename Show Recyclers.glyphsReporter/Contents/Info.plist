@@ -17,13 +17,13 @@
 	<key>CFBundlePackageType</key>
 	<string>BNDL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>2.0</string>
+	<string>2.0.1</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>MacOSX</string>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>20</string>
+	<string>21</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
@@ -45,7 +45,7 @@
 	<key>NSHumanReadableCopyright</key>
 	<string>Mark Frömberg</string>
 	<key>NSPrincipalClass</key>
-	<string>Show_Recyclers_2</string>
+	<string>Show_Recyclers_3</string>
 	<key>UpdateFeedURL</key>
 	<string>https://markfromberg.com/public/app-update-info/recyclers/Info.plist</string>
 	<key>productPageURL</key>
