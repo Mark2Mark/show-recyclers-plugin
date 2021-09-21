@@ -9,7 +9,7 @@
 	<key>CFBundleExecutable</key>
 	<string>Show Recyclers</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.markfromberg.show-recyclers-3</string>
+	<string>com.markfromberg.Show-Recyclers</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
@@ -17,13 +17,13 @@
 	<key>CFBundlePackageType</key>
 	<string>BNDL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>2.0.3</string>
+	<string>2.0.4</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>MacOSX</string>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>23</string>
+	<string>33</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
@@ -41,11 +41,11 @@
 	<key>DTXcodeBuild</key>
 	<string>12B45b</string>
 	<key>LSMinimumSystemVersion</key>
-	<string>10.11</string>
+	<string>10.12</string>
 	<key>NSHumanReadableCopyright</key>
 	<string>© 2021 markfromberg.com | All rights reserved.</string>
 	<key>NSPrincipalClass</key>
-	<string>Show_Recyclers_3</string>
+	<string>Show_Recyclers</string>
 	<key>UpdateFeedURL</key>
 	<string>https:</string>
 	<key>productPageURL</key>
