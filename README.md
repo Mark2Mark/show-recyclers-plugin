@@ -27,7 +27,12 @@ The famous plugin now available for Glyphs 3 with piles of improvements and new 
 
 <details><summary>Expand if you’re curious.</summary>
 
-### v2.0.0
+### v2.0.5
+
+- Use control accent color if possible
+- better dark mode support
+
+### v2.0.4
 
 - New in GlyphsApp's Plugin Manager
 - Add menu item "Open Registration Window"
