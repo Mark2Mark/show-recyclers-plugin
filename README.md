@@ -5,7 +5,9 @@
 
 # Recyclers 3
 
-The famous plugin now available for Glyphs 3 with piles of improvements and new features.
+Displays all glyphs of your font that use your currently selected one as a component. It’s a visual realtime feedback of inestimable value in a daily workflow. No matter which writing system, you will never want to work without anymore.
+
+For example if you work on your anchor placement, get a live feedback of all your accent glyphs, without having to add them to your Edit View manually all the time.
 
 💡 Minimum Glyphs version: build <code>3062</code>.
 
@@ -13,9 +15,18 @@ The famous plugin now available for Glyphs 3 with piles of improvements and new 
 
 
 &nbsp;
-## Highlights
+## Features & Highlights
 
-- You can now download it directly from the Plugin Manager right inside of GlyphsApp.
+- You can now download it from the Plugin Manager right inside of GlyphsApp  
+- <kbd>✨NEW✨</kbd> Custom color matching your Mac OS color.
+  - Works well in Dark Mode  
+- <kbd>✨NEW✨</kbd> Standalone window: Toggle between dispay in your edit view or in a separate window
+- <kbd>✨NEW✨</kbd> Display glyph name on mouse over
+- <kbd>✨NEW✨</kbd> Recyclers are based on your selection: either refer to the current glyph or the selected component
+- <kbd>✨NEW✨</kbd> Recyclers always show themselves in the selected font master
+- Double click on a Recycler to prepend it to your active glyph in Edit View
+- Enable/Disable superimposed view: Shows all Recyclers overlapping your current glyph
+- <kbd>✨NEW✨</kbd> Automatic Updates  
 
 &nbsp;
 ## Todo
