@@ -5,6 +5,8 @@
 
 # Recyclers 3
 
+[![made with heart by Mark Frömberg](https://img.shields.io/badge/made%20with%20%E2%99%A5%20by-mark%20frömberg-F9DE64.svg?style=flat)](https://github.com/Mark2Mark)
+
 Displays all glyphs of your font that use your currently selected one as a component. It’s a visual realtime feedback of inestimable value in a daily workflow. No matter which writing system, you will never want to work without anymore.
 
 For example if you work on your anchor placement, get a live feedback of all your accent glyphs, without having to add them to your Edit View manually all the time.
