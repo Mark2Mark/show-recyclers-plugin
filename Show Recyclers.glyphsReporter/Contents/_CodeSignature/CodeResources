@@ -6,31 +6,19 @@
 	<dict>
 		<key>Resources/Assets.car</key>
 		<data>
-		m9eEHDXLjCCzia7gdocfBWJ4wBI=
+		Gy2wsh4Kr5HLqSKZSRKKWdnIQIQ=
 		</data>
-		<key>Resources/MFGlyphCollectionViewController.nib/keyedobjects-101300.nib</key>
+		<key>Resources/MFGlyphCollectionViewController.nib</key>
 		<data>
-		cvIT8fEYGiC6ns+EQ8J5MbxbsKE=
+		W+8ZL8GmU4cuMU7gGNcql/UQgOw=
 		</data>
-		<key>Resources/MFGlyphCollectionViewController.nib/keyedobjects.nib</key>
-		<data>
-		ENAhehaguJxymRM1YqH7YcJQTjs=
-		</data>
-		<key>Resources/MFGlyphCollectionViewItem.nib/keyedobjects-101300.nib</key>
+		<key>Resources/MFGlyphCollectionViewItem.nib</key>
 		<data>
 		6yBzgZIip2Ysy6CPdFis5jC6z4I=
 		</data>
-		<key>Resources/MFGlyphCollectionViewItem.nib/keyedobjects.nib</key>
+		<key>Resources/MFRecyclersWindow.nib</key>
 		<data>
-		meiYRi/8KCxlSbdCYLimw7y2zn0=
-		</data>
-		<key>Resources/MFRecyclersWindow.nib/keyedobjects-101300.nib</key>
-		<data>
-		xU5FvMhMvxIOhGm/BEZMheidcK8=
-		</data>
-		<key>Resources/MFRecyclersWindow.nib/keyedobjects.nib</key>
-		<data>
-		YlrWPZ/ogdjswS30y5IPSwlhl9g=
+		4SBNPo1Gyu8aDYq0uQH7agRwxjI=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -39,49 +27,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			NmNhmGYUhzkXY5bVblyB9RZJ9mjHVOhYLJDEF+gqjT4=
+			hLR9gjmGbqC2J71lLHH/Xb7yQiKkwzeBy8WOqKr5iWQ=
 			</data>
 		</dict>
-		<key>Resources/MFGlyphCollectionViewController.nib/keyedobjects-101300.nib</key>
+		<key>Resources/MFGlyphCollectionViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			73kzMDdWR4YqtsFokD+BvR5Uc7+KuDQeDPjErXvcwE8=
+			t5htm+cuPAk0MmgKfjXmfeRkXnvGcaffKAdJNHMB8dE=
 			</data>
 		</dict>
-		<key>Resources/MFGlyphCollectionViewController.nib/keyedobjects.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			1+F7NKv8iRa1PaNqr+IqFeSbOTyQvM4PLfkI2Tyiyy8=
-			</data>
-		</dict>
-		<key>Resources/MFGlyphCollectionViewItem.nib/keyedobjects-101300.nib</key>
+		<key>Resources/MFGlyphCollectionViewItem.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			y/ynkSsRIhO1DqRBOftY+2jQcu8DiC0gg/s6BclGe+s=
 			</data>
 		</dict>
-		<key>Resources/MFGlyphCollectionViewItem.nib/keyedobjects.nib</key>
+		<key>Resources/MFRecyclersWindow.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			cIsMRBdHg5WSpUj3VnxXiFQqvcj+BEyCCOnhyaNDQFU=
-			</data>
-		</dict>
-		<key>Resources/MFRecyclersWindow.nib/keyedobjects-101300.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			IKCEWCeo0ll38ZknsiTXpB/xz468akmclQkKh9Roq5k=
-			</data>
-		</dict>
-		<key>Resources/MFRecyclersWindow.nib/keyedobjects.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			kvXZhLfNCvWxHnJYkoJMzTVd1icPhuvRaqtav/I1jBw=
+			Vk1fjJpYsDW039KYyJmQEfZ4r7XMcpxl2vxshPY6oYs=
 			</data>
 		</dict>
 	</dict>
